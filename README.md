@@ -1,5 +1,5 @@
 # first
 this is my first git repository
 <br>
-author-pabitra kumar nayak
+author-pabitra kumar nayak and satya
 
